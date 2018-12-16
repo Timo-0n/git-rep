@@ -1,4 +1,6 @@
 print ("Hello World;");
 print ("Hello everybody;");
 print ("hello;");
-print(helloooo;");
+print("helloooo;");
+print("hello, my dear friend;);
+
